@@ -6,6 +6,8 @@ categories: [jax, linear-regression]
 comments:
   utterances:
     repo: AlexandrByzov/jax_dl
+execute: 
+  enabled: false
 ---
 
 # Упражнения
