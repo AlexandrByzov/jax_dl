@@ -19,5 +19,6 @@ comments:
 ```{python}
 import jax
 
-def predict_fn()
+def predict_fn():
+  pass
 ```
