@@ -8,6 +8,7 @@ comments:
     repo: AlexandrByzov/jax_dl
 execute: 
   enabled: false
+language: ru
 ---
 
 # Упражнения
