@@ -7,6 +7,7 @@ comments:
   utterances:
     repo: AlexandrByzov/jax_dl
 lang: ru
+jupyter: .venv
 ---
 
 # Упражнения
