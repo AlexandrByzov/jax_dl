@@ -1,6 +1,8 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/002_linear_regression_with_jax/index.html"
+    ]
   }
 ]

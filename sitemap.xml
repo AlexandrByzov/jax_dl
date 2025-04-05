@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://AlexandrByzov.github.io/jax_dl/about.html</loc>
-    <lastmod>2025-04-04T17:45:51.132Z</lastmod>
+    <loc>https://AlexandrByzov.github.io/jax_dl/posts/002_linear_regression_with_jax/index.html</loc>
+    <lastmod>2025-04-05T09:53:57.046Z</lastmod>
   </url>
   <url>
     <loc>https://AlexandrByzov.github.io/jax_dl/index.html</loc>
-    <lastmod>2025-04-04T17:45:51.132Z</lastmod>
+    <lastmod>2025-04-05T09:53:57.046Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AlexandrByzov.github.io/jax_dl/about.html</loc>
+    <lastmod>2025-04-05T09:53:57.046Z</lastmod>
   </url>
 </urlset>
